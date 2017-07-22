@@ -8,6 +8,7 @@ public class TestL {
 		System.out.println("世界中心呼唤爱！");
 		System.out.println("世界中心呼唤爱，第二次！");
 		System.out.println("世界中心呼唤爱，第三次！");
+		System.out.println("世界中心呼唤爱，第四次！");
 	}
 
 }
